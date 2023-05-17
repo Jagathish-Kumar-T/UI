@@ -30,6 +30,9 @@ main{
   font-size: 25px;
   margin-left: 50px;
 }
+.sidebar:hover{
+width: 300px;
+}
 .link{
   display: flex;
   color: #fff;
